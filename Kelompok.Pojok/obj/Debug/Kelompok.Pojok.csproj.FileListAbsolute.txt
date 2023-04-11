@@ -1,0 +1,6 @@
+D:\22.11.5293\Pemrograman\05\Kelompok.Pojok\Kelompok.Pojok\bin\Debug\Kelompok.Pojok.exe.config
+D:\22.11.5293\Pemrograman\05\Kelompok.Pojok\Kelompok.Pojok\bin\Debug\Kelompok.Pojok.exe
+D:\22.11.5293\Pemrograman\05\Kelompok.Pojok\Kelompok.Pojok\bin\Debug\Kelompok.Pojok.pdb
+D:\22.11.5293\Pemrograman\05\Kelompok.Pojok\Kelompok.Pojok\obj\Debug\Kelompok.Pojok.csprojResolveAssemblyReference.cache
+D:\22.11.5293\Pemrograman\05\Kelompok.Pojok\Kelompok.Pojok\obj\Debug\Kelompok.Pojok.exe
+D:\22.11.5293\Pemrograman\05\Kelompok.Pojok\Kelompok.Pojok\obj\Debug\Kelompok.Pojok.pdb
